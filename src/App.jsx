@@ -121,7 +121,7 @@ const App = () => {
               280+ Premium Recipes
             </div>
             <h1 className="text-6xl md:text-8xl font-black tracking-tighter text-white leading-[0.9]">
-              GOURMET<br />
+              ForkLab<br />
               <span className="text-zinc-700">LIBRARY.</span>
             </h1>
           </div>
